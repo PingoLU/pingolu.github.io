@@ -8,3 +8,5 @@ Es geht hier um Marvin den melancholischen und mürrischen Roboter, der, obwohl 
 
 Als Marvin einem Kampfroboter gegnübersteht und diesen zur Selbstzerstörung animiert sagt er nur:
 > Was für eine deprimierend dämliche Maschine!
+
+<img src="https://fictivecharacters.files.wordpress.com/2010/11/marvin.png?w=535"/>
