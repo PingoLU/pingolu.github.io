@@ -5,3 +5,6 @@ Es geht hier um Marvin den melancholischen und mürrischen Roboter, der, obwohl 
 * mürrisch
 * immer schlecht gelaunt
 * hat Schmerzen in den Dioden an seiner linken Seite
+
+Als Marvin einem Kampfroboter gegnübersteht und diesen zur Selbstzerstörung animiert sagt er nur:
+> Was für eine deprimierend dämliche Maschine!
